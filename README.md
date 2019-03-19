@@ -1,0 +1,2 @@
+# Socket-SQlite
+swift语言编写的关于Socket通信以及使用SQlite进行账号密码注册操作以及登陆
